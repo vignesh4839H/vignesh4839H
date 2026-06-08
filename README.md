@@ -1,7 +1,7 @@
 # <img src="https://komarev.com/ghpvc/?username=vignesh4839H&color=blueviolet&style=flat-square" align="right" alt="vignesh4839H" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Vignesh Mummidi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Tech+Content+Creator;Turning+Code+into+Reality">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Turning+Code+into+Reality">
 </p>
 
 ---
