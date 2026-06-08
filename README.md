@@ -6,13 +6,6 @@
 
 ---
 
-### 🏆 My GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh4839H&theme=onedark&column=7&no-bg=true" alt="vignesh4839H trophies" />
-</p>
-
----
-
 ### 🚀 About Me
 
 I am a passionate **Full Stack Developer** and a fresh talent in the tech ecosystem. I thrive on building seamless digital experiences and solving complex problems with clean, efficient code.
