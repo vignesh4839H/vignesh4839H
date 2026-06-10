@@ -10,9 +10,8 @@
 
 I am a passionate **Full Stack Developer** and a fresh talent in the tech ecosystem. I thrive on building seamless digital experiences and solving complex problems with clean, efficient code.
 
-- 🎥 **Content Creation**: I share tech insights and tutorials across **YouTube**, **Medium**, and **Instagram**.
 - ⚡ **Fun Fact**: I treat debugging like a high-stakes boss fight and caffeine is my power-up.
-- 🌍 **Location**: Based in Kakinada, India.
+- 🌍 **Location**: Hyderabad, India.
 - 📚 **Learning**: Currently exploring advanced React patterns and backend optimization.
 
 ---
